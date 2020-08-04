@@ -14,4 +14,6 @@ Give it a minute for the site to load after it is clicked.
 
 ![Image of user's view when adding an exercise](./public/images/Fitness2.png)
 
+![Image of user's view when adding an exercise](./public/images/Fitness3.png)
+
 
